@@ -1,27 +1,30 @@
 # MySQL-Consumer-Goods-Ad-hoc-Insight
 
+### Project Objective
+Analyse sales, product performance, customer discounts, and channel contribution using MySQL to generate meaningful insights that support business decision-making.
+
 ### Key Insights (https://github.com/surya02025/MySQL-Consumer-Goods-Ad-hoc-Insight/blob/main/Presentaion%20ad%20hock%201.pptx)
 
-* Unique products grew YoY → strong portfolio expansion.
+* Strong product growth: Unique products increased YoY, especially in Accessories & Peripherals.
 
-* Accessories & Peripherals are top-growth segments; Networking & Storage need improvement.
+* Segments to improve: Networking, Storage, and Desktop have low product variety and sales.
 
-* Retailers drive most revenue (73%) → strongest sales channel.
+* Channel performance: Retailers contribute 73% of revenue → most important sales channel.
 
-* Flipkart, Croma, Viveks get the highest discounts → high-value customers.
+* Customer discounts: Flipkart, Croma, Viveks, and Ezone receive the highest discounts due to high volume.
 
-* Sales peak in Sep–Dec; slowdowns in Mar–Apr and Jul–Aug.
+* Sales trends: Peak in Sep–Dec, slowdowns in Mar–Apr and Jul–Aug.
 
-* Pen drives dominate the N&S division; PC division is underperforming.
+* Division insights: Pen drives dominate the N&S division; PC division underperforms.
 
-### How This Solves Business Problems
+### How This Analysis Solves Business Problems
 
-* Helps identify which product segments to expand and which need focus.
+* Identifies growth segments and weak areas needing improvement.
 
-* Guides pricing, discount, and retailer strategy.
+* Helps refine pricing & discount strategy for high-value customers.
 
-* Improves campaign planning using seasonality insights.
+* Supports smarter sales planning using seasonal patterns.
 
-* Supports better inventory and product launch decisions.
+* Guides product expansion, inventory management, and launch decisions.
 
-* Strengthens customer loyalty through service-based improvements (warranty, onsite support).
+* Enables stronger customer loyalty through service improvements (warranty, onsite support).
